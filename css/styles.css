@@ -941,6 +941,10 @@ body{
     right: 24px;
     width: 24px;
     height: 24px;
+
+    display: flex;
+    align-items: center;
+    justify-content: center;
     border-radius: 50%;
     transition: transform var(--transition),
             opacity var(--transition), visibility var(--transition),
